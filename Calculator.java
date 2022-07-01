@@ -10,11 +10,11 @@ public class Calculator1 {
 		
 		System.out.println("Enter Number=");
 		
-		Scanner s = new Scanner(System.in);
+		//Scanner s = new Scanner(System.in);
 		int a, b, sum=0, div=0;
 		
-		a = s.nextInt();
-		b = s.nextInt();
+		a = 10;
+		b = 20;
 		
 		
 		sum = a+b;
