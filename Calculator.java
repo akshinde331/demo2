@@ -13,7 +13,7 @@ public class Calculator {
 		//Scanner s = new Scanner(System.in);
 		int a, b, sum=0, div=0;
 		
-		a = 10;
+		a = 40;
 		b = 20;
 		
 		
