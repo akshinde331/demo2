@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 
-hii 
-=======
 
 
 import java.util.Scanner;
 
-public class Calculator1 {
+public class Calculator {
 	
 
 	public static void main(String[] args) {
@@ -29,4 +26,4 @@ public class Calculator1 {
 	}
 
 }
->>>>>>> d3ff1c3828c5a0a81f95fd0438b356f870e1a42e
+
